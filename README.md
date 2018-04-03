@@ -3,7 +3,7 @@ This repo is for educational purposes.
 
 ## Homework
 
-This tutorial is for unix users, its course can be also done with Windows OS, however I don't know exactly how - goggling for `unix command + windows` will always help! ;)
+This tutorial is for unix users, its course can be also done with Windows OS, however I don't know exactly how - googling for `unix command + windows` will always help! ;)
 
 ### 1.) Install a python interpreter!
 I recommend [Anaconda](https://www.anaconda.com/download/) for starters.
@@ -34,12 +34,12 @@ pip freeze
 ```
 Here you should see nothing.
 
-### 7.) Try to run tryout.py script.
+### 7.) Try to run `tryout.py` script.
 ```shell
 python tryout.py
 ```
 
-### 8.) Install requirements.txt!
+### 8.) Install `requirements.txt`!
 Check its content:
 ```shell
 cat requirements.txt
@@ -55,7 +55,7 @@ pip freeze
 ```
 You should see some packages here with their version (which is identical with the requirements.txt).
 
-### 10.) Try to run tryout.py script.
+### 10.) Try to run `tryout.py` script.
 ```shell
 python tryout.py
 ```
