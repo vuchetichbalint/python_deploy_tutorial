@@ -1,3 +1,6 @@
+[![py2 status](https://img.shields.io/badge/python2-supported-green.svg)]()
+[![py3 status](https://img.shields.io/badge/python3-supported-green.svg)]()  
+
 # python_deploy_tutorial
 This repo is for educational purposes.
 
