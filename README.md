@@ -1,8 +1,13 @@
-[![py2 status](https://img.shields.io/badge/python2-supported-green.svg)]()
 [![py3 status](https://img.shields.io/badge/python3-supported-green.svg)]()  
 
 # python_deploy_tutorial
+
+- deploy as virtualenv (see below)
+- deploy machine learning model as a RESTful API (see subfolder)
+
+
 This repo is for educational purposes.
+
 
 ## Homework
 
